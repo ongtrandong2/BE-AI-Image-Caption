@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: your-service-name
+    env: docker
+    plan: free  # Change this to the appropriate plan
+    dockerfilePath: Dockerfile
+    buildCommand: ""
+    startCommand: ""
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: SECRET_KEY
+        value: your-secret-key

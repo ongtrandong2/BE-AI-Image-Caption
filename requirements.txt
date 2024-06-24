@@ -1,6 +1,6 @@
 Flask>=2.2.3
 modelscope
-fairseq>=0.12.4,<0.12.5
+fairseq>=0.12.4
 opencv-python
 timm
 ftfy>=6.0.3

@@ -22,6 +22,8 @@ RUN curl -sS https://bootstrap.pypa.io/get-pip.py | python3.9
 
 RUN pip3.9 install numpy
 RUN pip3.9 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# Install fairseq from a pre-built wheel or specify the version
+RUN pip3.9 install fairseq==0.10.2
 RUN pip3.9 install -r requirements.txt
 
 EXPOSE 80

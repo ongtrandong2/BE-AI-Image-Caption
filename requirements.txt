@@ -1,3 +1,5 @@
+
+gunicorn
 Flask>=2.2.3
 modelscope
 fairseq

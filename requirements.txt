@@ -1,5 +1,6 @@
-Flask>=2.2.3
+
 gunicorn
+Flask>=2.2.3
 modelscope
 fairseq
 opencv-python
@@ -22,4 +23,3 @@ protobuf>=3.20.*
 transformers
 unicodedata2
 decord>=0.6.0
-open_clip_torch

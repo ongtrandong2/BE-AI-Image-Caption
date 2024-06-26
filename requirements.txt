@@ -24,3 +24,4 @@ decord>=0.6.0
 crcmod
 gunicorn
 pybind11>=2.12
+numpy<2.0.0

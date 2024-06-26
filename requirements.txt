@@ -23,3 +23,4 @@ unicodedata2
 decord>=0.6.0
 crcmod
 gunicorn
+pybind11>=2.12

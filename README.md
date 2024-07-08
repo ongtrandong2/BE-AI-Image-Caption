@@ -77,5 +77,5 @@ Nếu bạn muốn đóng góp vào dự án, hãy làm theo các bước sau:
 
 ## Tác giả
 
-- Tên tác giả: Nguyen Tuan Khang
-- Email: 21520963@gm.uit.edu.vn
+- Tên tác giả: Trần Đông Đông
+- Email: 21521957@gm.uit.edu.vn
